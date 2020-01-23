@@ -1,5 +1,6 @@
 const fs = require('fs');
 
+// comment in notes.js file by praveen
 
 const getNotes = function(){
     return "Your Notes...";
